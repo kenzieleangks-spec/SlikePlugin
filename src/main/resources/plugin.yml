@@ -1,0 +1,8 @@
+name: SlikeSMP
+version: 1.0
+main: com.example.slikesmp.Main
+api-version: '1.21'
+commands:
+  profile:
+    description: Buka menu profile
+    usage: /profile
